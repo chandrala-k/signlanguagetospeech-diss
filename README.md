@@ -44,6 +44,13 @@ After downloading the dataset, either upload it manually to your Google Drive or
 
 [Open the Colab Notebook](https://colab.research.google.com/drive/1oINQU0pUNZOnYaHMRNMFivQgw6jO2DCv?usp=sharing)
 
+## Installing Required Libraries
+
+Before running the notebook, ensure that the required libraries are installed. These dependencies are listed in the `requirements.txt` file. To install them in your environment, run:
+
+```bash
+pip install -r requirements.txt
+
 
 
 
