@@ -25,7 +25,7 @@ To run this project, you will need:
      ```
 
 3. **Download the Dataset to Google Drive:**
-   - You will need to download the dataset from the website (see the [Dataset](https://data.mendeley.com/datasets/kcmpdxky7p/1) .
+   - You will need to download the dataset from the website see the [Dataset](https://data.mendeley.com/datasets/kcmpdxky7p/1) .
    - Save the dataset in your Google Drive in a specific folder (e.g., `MyDrive/sign_language_dataset/`). 
 
 4. **Load the Dataset:**
