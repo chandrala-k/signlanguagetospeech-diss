@@ -1,5 +1,5 @@
 
-# Advance Sign Language to Speech using Transformers
+# Advancing Real-Time Sign Language to Speech using Transformers
 
 This project converts sign language gestures into speech using advanced transformer models. The provided Jupyter notebook runs on Google Colab and uses a custom dataset that can be downloaded from a specified website and stored in Google Drive.
 
